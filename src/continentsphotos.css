@@ -1,0 +1,67 @@
+.continent-photos{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+.continentAfrica{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    height: 50vh;
+    background-image: url("https://folkcloud.com/images/africa-traditional-music.jpg")
+}
+.continentEurope{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    height: 50vh;
+    background-image: url("https://folkcloud.com/images/gypsy-violinisit-romania.jpg")
+}
+.continentSouth{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    height: 50vh;
+    background-image: url("https://folkcloud.com/images/ecuador-traditional-dance.jpg")
+}
+.continentNorth{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    height: 50vh;
+    background-image: url("https://folkcloud.com/images/yellow-indian.jpg")
+}
+
+.continentAsia{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    height: 50vh;
+    background-image: url("https://folkcloud.com/images/iranian-music-master.jpg")
+}
+.continentOceana{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    height: 50vh;
+    background-image: url("https://folkcloud.com/images/indigenous-didgeridoo.jpg")
+}
